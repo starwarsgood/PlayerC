@@ -1,0 +1,13 @@
+﻿Сборка начата 06.04.2016 17:44:14.
+     1>Проект "C:\Users\html\Documents\Visual Studio 2013\Projects\Проект2\Проект2\Проект2.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Проект2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\html\Documents\Visual Studio 2013\Projects\Проект2\Debug\player.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:"Debug\Проект2.MyForm.resources" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\html\Documents\Visual Studio 2013\Projects\Проект2\Debug\player.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>LINK : error LNK2001: эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы "_main"
+     1>C:\Users\html\Documents\Visual Studio 2013\Projects\╧ЁюхъЄ2\Debug\player.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1
+     1>Сборка проекта "C:\Users\html\Documents\Visual Studio 2013\Projects\Проект2\Проект2\Проект2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.39
